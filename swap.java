@@ -16,14 +16,6 @@ public class swap {
 }
 */
 
-
-
-
-
-
-
-
-
 class  swap{
 	
 		public static void main(String[] args)
